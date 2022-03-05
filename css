@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./image1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 0;  
+}
+.music{
+    margin-top: 200px;
+    margin-left: 407px;
+    width: 10%;
+    border: 1px solid rgb(168, 122, 140);
+    border-radius: 80px;
+    background-color: rgb(219, 105, 124);;
+}
